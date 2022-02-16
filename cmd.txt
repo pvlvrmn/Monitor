@@ -1,0 +1,1 @@
+pyinstaller -F -i icon.ico --version-file vers.txt Monitor.py
